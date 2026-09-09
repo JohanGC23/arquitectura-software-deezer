@@ -2,7 +2,7 @@
 
 | Integrante | Rol |
 |---|---|
-| **Jeymi Johan Gomez Coaquira** | Líder de equipo / Arquitecto de Software |
-| **Frank Antoni Magallan Rojas** | Desarrollador Backend / Integraciones |
-| **Anderson Huamani Alarcon** | Desarrollador Frontend / Mobile |
+| **Anderson Huamani Alarcon** | Líder de equipo / Arquitecto de Software |
+| **Jeymi Johan Gomez Coaquira** | Desarrollador Backend / Integraciones |
+| **Frank Antoni Magallan Rojas** | Desarrollador Frontend / Mobile |
 | **Jhon Antony Rios Ccarapa** | QA / DevOps / Documentación |
